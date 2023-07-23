@@ -1,4 +1,5 @@
 def get_titled(text):
+    """receives string and returns upper letters"""
     return text.upper()
 
 
