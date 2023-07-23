@@ -1,4 +1,4 @@
-def get_titled(text):
+def get_upper(text):
     """receives string and returns upper letters"""
     return text.upper()
 
